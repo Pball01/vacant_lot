@@ -1,1 +1,1 @@
-# Vacant Lot
+# Predicting Vacant Lots in City of Philadelphia
